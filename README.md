@@ -18,7 +18,11 @@ Before running the script, make sure you have the following:
 Python 3.x installed.
 The smtplib and email libraries (pre-installed with Python).
 Access to an Outlook/Hotmail account for sending the 2FA email.
+
+
 Installation and Setup
+
+
 Clone the repository or copy the script into your local environment.
 Open the script and update the following variables:
 sender_email: Your Outlook/Hotmail email address.
