@@ -8,7 +8,11 @@ Password-based authentication with a list of valid passwords.
 Generation and sending of a random 2FA code to the user's email.
 Simple email setup using SMTP (configured for Outlook/Hotmail).
 Input validation for both the password and the 2FA code.
+
+
 Prerequisites
+
+
 Before running the script, make sure you have the following:
 
 Python 3.x installed.
