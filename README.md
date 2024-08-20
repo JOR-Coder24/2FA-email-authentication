@@ -1,9 +1,9 @@
 # 2FA-email-authentication
 
-Overview
+Overview:
 This Python script implements a simple two-factor authentication (2FA) system using email verification. The user is first asked to provide a valid password from a predefined list. If the password is correct, a 2FA code is generated and sent to the user’s email address. The user must then enter the correct 2FA code to gain access.
 
-Features
+Features:
 Password-based authentication with a list of valid passwords.
 Generation and sending of a random 2FA code to the user's email.
 Simple email setup using SMTP (configured for Outlook/Hotmail).
