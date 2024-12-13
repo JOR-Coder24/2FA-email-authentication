@@ -1,7 +1,3 @@
-Here's a README for your 2FA password verification system:
-
----
-
 # 2FA Password Verification System
 
 This Python script implements a simple two-factor authentication (2FA) system where users need to provide a valid password followed by a code sent via email. The system uses a list of predefined valid passwords and generates a 2FA code, which is sent to the user's email. To successfully authenticate, the user must enter the correct password and the correct 2FA code sent to their email.
